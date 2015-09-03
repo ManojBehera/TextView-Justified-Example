@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextView Justified Example</string>
+    <string name="hello_world">Nishka Lulla, who had her fairytale wedding in June 2015 in Bangkok, has been living it up in her honeymoon in the US, reports Mumbai Mirror. Nishka, who has been in the US for a week with her husband Dhruv Mehra, visited Disneyland in Orlando, the report stated. The designer always wanted to visit the amusement park and ensured it was the first pit stop during her trip. It is learnt that Nishka, who has a sweet tooth, gorged on candies and chocolates at the park. Further to the report, the duo plans a cross-drive drive and will visit several cities. But Vegas, where Dhruv celebrated his bachelors, will not feature in the map. The couple will be heading to the Big Apple next and will be back in India on July 17, the report concluded.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
